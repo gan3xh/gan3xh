@@ -2,7 +2,7 @@
 
 I'm a 21-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website] (coming soon) to learn more about me.
+- Check out my [Portfolio](https://gan3xh.vercel.app/) to learn more about me.
  
 ## 📦 Toolbox
 
@@ -15,10 +15,6 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 **Cloud:** `AWS` `GCP`
 
  
-## ✨ Fun Facts 
-
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
 
 ## 📫 Contact
 
